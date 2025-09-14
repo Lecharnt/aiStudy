@@ -12,7 +12,7 @@ class FlashcardGenerator:
     def __init__(self):
         self.config_psm4 = r'--oem 3 --psm 4'
         self.config_psm11 = r'--oem 3 --psm 11'
-        self.gemini_api_url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyA0JAvz2tI1l7Qecuz-TPSoCBmWn7_6cHM"
+        self.gemini_api_url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?"
 
     def preprocess_image(self, image):
         """Enhance image for better OCR results"""
