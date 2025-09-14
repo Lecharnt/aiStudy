@@ -1,0 +1,239 @@
+
+You are a math tutor AI. Below is raw math content extracted from a document.
+Turn this into a clean, student-friendly practice test with problems and worked-out solutions.
+
+Raw math text:
+Math 121 Review Test 3
+1
+Sequences
+1. Determine whether the sequences below converge, if so find lim
+n→∞an. (a) an =
+n2 + 5
+2n2 + 3n + 1
+(b) an = n2 −3n + 7
+2n −1
+(c) an =
+2n
+n2 + 3
+2. Determine whether the sequences below converge, if so find lim
+n→∞an. (a) an = (−1)n
+n2 + 5
+2n2 + 3n + 1
+(b) an = (−1)n n2 −3n + 7
+n3 + 1
+(c) an =
+n + 5
+n
+2n
+2
+Infinite Series
+3. For the series below, determine if the divergence test can be used to draw a conclusion about the
+convergence of the series. (a)
+∞
+X
+n=1
+n
+n + 1
+(b)
+∞
+X
+n=1
+1
+n2 + 1
+(c)
+∞
+X
+n=1
+n2
+n + 1
+4. Determine whether the geometric series below converges, if so find value of the series. ∞
+X
+n=1
+4 · 23n+1
+52n
+5. Use partial fractions to split the terms of the series. Use telescoping to find the value of the series. ∞
+X
+n=1
+3
+n(n + 3). 1
+3
+Integral Test
+6. Use the integral test to determine whether the series below converge
+(a)
+∞
+X
+n=1
+3n2
+n3 + 1
+(b)
+∞
+X
+n=1
+1
+n ln(n)
+(c)
+∞
+X
+n=1
+1
+n(ln(n))2
+4
+Comparison Tests
+7. Find an appropriate series to compare the following series to. Use the comparison test to decide if the
+series converges. (a)
+∞
+X
+n=1
+1
+n2 + n + 2
+(b)
+∞
+X
+n=1
+1
+q
+n −1
+3
+(c)
+∞
+X
+n=1
+sin2(n)
+n3
+8. Find an appropriate series to limit compare the following series to. Use the limit comparison test to
+decide if the series converges. (a)
+∞
+X
+n=1
+n2 + 1
+n4 −n2 + 1
+(b)
+∞
+X
+n=1
+n3e−2n
+(c)
+∞
+X
+n=1
+√
+n2 + 1
+n2 + 3n −2
+5
+Ratio and Root Tests
+9. Use the ratio test on the following series. (a)
+∞
+X
+n=1
+n + 1
+3n
+(b)
+∞
+X
+n=1
+n! 3n
+10. Use the root test on the following series. (a)
+∞
+X
+n=1
+2n
+n3 + n
+(b)
+∞
+X
+n=1
+n! nn
+2
+6
+Absolute and Conditional Convergence
+11. Determine whether the series
+∞
+X
+n=1
+(−1)n3n
+n2 + 1
+converges absolutely, converges conditionally or diverges. 12. Determine whether the series
+∞
+X
+n=1
+(−1)n3n
+n + 1
+converges absolutely, converges conditionally or diverges. 13. Determine whether the series
+∞
+X
+n=1
+(−1)n
+n2 + 1 converges absolutely, converges conditionally or diverges. 7
+Power Series
+14. Find the interval of convergence for the power series
+∞
+X
+n=0
+2
+n23n (x −1)n. 15. Find the interval of convergence for the power series
+∞
+X
+n=0
+(−1)n
+(n + 1)2n (x −3)n. 16. Find the interval of convergence for the power series
+∞
+X
+n=0
+n
+(n + 1)3n (x + 5)n. 3
+
+Format as: Numbered Problems → Solution steps → Final Answer.
+
+Problem 1: Determine whether the sequences below converge, if so find lim
+n→∞an. (a) an = n2 + 5
+2n2 + 3n + 1
+(b) an = n2 −3n + 7
+2n −1
+(c) an = 2n
+n2 + 3
+
+Solution:
+(a) We use the ratio test to determine convergence.
+
+Let L be the limit as n approaches infinity of:
+
+(n2 + 5)/(2n2 + 3n + 1)
+
+Simplifying the expression:
+
+L = (n2 + 5)/(2n2 + 3n + 1)
+
+L = (1 + 5/n2)/(2 + 3/n)
+
+As n approaches infinity, the denominator approaches infinity, and the numerator approaches 1. Therefore, L approaches 1. Since L is between -1 and 1, the sequence converges.
+
+(b) We use the ratio test to determine convergence.
+
+Let L be the limit as n approaches infinity of:
+
+(n2 −3n + 7)/(2n −1)
+
+Simplifying the expression:
+
+L = (n2 −3n + 7)/(2n −1)
+
+L = (n2 −3n + 7)/(2n −1)
+
+L = (n2 −3n)/(2n −1) - 7/(2n −1)
+
+As n approaches infinity, the denominator approaches infinity, and the numerator approaches infinity. Therefore, L approaches infinity. Since L is greater than 1, the sequence diverges.
+
+(c) We use the ratio test to determine convergence.
+
+Let L be the limit as n approaches infinity of:
+
+2n/(n2 + 3)
+
+Simplifying the expression:
+
+L = 2/n - 3/(n2 + 3)
+
+As n approaches infinity, the first term approaches 0, and the second term approaches 0. Therefore, L approaches 0. Since L is between -1 and 1, the sequence converges.
+
+Final Answer:
+(a)

@@ -1,0 +1,726 @@
+
+--- Page 1 (Text) ---
+1
+Basic Math Review
+Numbers
+NATURAL NUMBERS
+{1, 2, 3, 4, 5, …}
+WHOLE NUMBERS
+{0, 1, 2, 3, 4, …}
+INTEGERS
+{…, 3, 2, 1, 0, 1, 2, …}
+RATIONAL NUMBERS
+All numbers that can be written in the form 
+, where a
+and b are integers and
+.
+IRRATIONAL NUMBERS
+Real numbers that cannot be written as the quotient of two
+integers but can be represented on the number line.
+REAL NUMBERS
+Include all numbers that can be represented on the number
+line, that is, all rational and irrational numbers.
+PRIME NUMBERS
+A prime number is a number greater than 1 that has only
+itself and 1 as factors.
+Some examples:
+2, 3, and 7 are prime numbers.
+COMPOSITE NUMBERS
+A composite number is a number that is not prime. For
+example, 8 is a composite number since
+.
+8 = 2 # 2 # 2 = 23
+Rational Numbers
+Real Numbers
+23, 22.4, 21  , 0, 0.6, 1, etc.
+2
+4_
+5
+25VN
+Irrational
+Numbers
+p 23, 22, 21, 0, 1, 2, 3, p
+Integers
+0, 1, 2, 3, p
+Whole Numbers
+Natural Numbers 1, 2, 3, p
+3,
+2, p, etc.
+VN
+b Z 0
+a>b
+–5
+–5 – 4
+– 4 –3
+–3
+Negative integers
+Negative integers
+Positive integers
+The Number Line
+Zero
+–2
+–2 –1
+–1
+0
+1
+2
+3
+4
+5
+ISBN-13:
+ISBN-10:
+978-0-321-39476-7
+0-321-39476-3
+9
+7 8 0 3 2 1 3 9 4 7 6 7
+9 0 0 0 0
+Important Properties
+PROPERTIES OF ADDITION
+Identity Property of Zero:
+Inverse Property:
+Commutative Property:
+Associative Property:
+PROPERTIES OF MULTIPLICATION
+Property of Zero:
+Identity Property of One:
+, when 
+.
+Inverse Property:
+, when 
+.
+Commutative Property:
+Associative Property:
+PROPERTIES OF DIVISION
+Property of Zero:
+, when 
+.
+Property of One:
+, when 
+.
+Identity Property of One:
+Absolute Value
+The absolute value of a number is always ≥0.
+If 
+, 
+.
+If 
+, 
+.
+For example, 
+and 
+. In each case, the
+answer is positive.
+ƒ5 ƒ = 5
+ƒ -5 ƒ = 5
+ƒ
+a ƒ = a
+a 6 0
+ƒa ƒ = a
+a 7 0
+a
+1 = a # 1
+a Z 0
+a
+a = 1
+a Z 0
+0
+a = 0
+a # 1b # c2 = 1a # b2 # c
+a # b = b # a
+a Z 0
+a # 1
+a = 1
+a Z 0
+a # 1 = a
+a # 0 = 0
+a + 1b + c2 = 1a + b2 + c
+a + b = b + a
+a + 1-a2 = 0
+a + 0 = a
+-
+
+--- Page 2 (Text) ---
+2
+Integers
+(continued)
+MULTIPLYING AND DIVIDING WITH NEGATIVES
+Some examples:
+Fractions
+LEAST COMMON MULTIPLE
+The LCM of a set of numbers is the smallest number that is a
+multiple of all the given numbers.
+For example, the LCM of 5 and 6 is 30, since 5 and 6 have no
+factors in common.
+GREATEST COMMON FACTOR
+The GCF of a set of numbers is the largest number that can
+be evenly divided into each of the given numbers.
+For example, the GCF of 24 and 27 is 3, since both 24 and
+27 are divisible by 3, but they are not both divisible by any
+numbers larger than 3.
+FRACTIONS
+Fractions are another way to express division. The top num-
+ber of a fraction is called the numerator, and the bottom
+number is called the denominator.
+ADDING AND SUBTRACTING FRACTIONS
+Fractions must have the same denominator before they can
+be added or subtracted.
+, with 
+.
+, with 
+.
+If the fractions have different denominators, rewrite them as
+equivalent fractions with a common denominator. Then add
+or subtract the numerators, keeping the denominators the
+same. For example,
+.
+2
+3 + 1
+4 = 8
+12 + 3
+12 = 11
+12
+d Z 0
+a
+d - b
+d = a - b
+d
+d Z 0
+a
+d + b
+d = a + b
+d
+or
+36
+2    18
+ 
+2 36
+18
+
+ 
+ 1-242>1-82 = 3 
+ 1-721-62 = 42 
+ -3 # 5 = -15
+-a , b = -  a
+b
+-a
+-b = a
+b
+-a # -b = ab
+-a # b = -ab
+Key Words and Symbols
+The following words and symbols are used for the 
+operations listed.
+Addition
+Sum, total, increase, plus
+addend  addend = sum
+Subtraction
+Difference, decrease, minus
+minuend  subtrahend = difference
+Multiplication
+Product, of, times
+factor  factor = product
+Division
+Quotient, per, divided by
+dividend  divisor = quotient
+Order of Operations
+1st: Parentheses
+Simplify any expressions inside parentheses.
+2nd: Exponents
+Work out any exponents.
+3rd: Multiplication and Division
+Solve all multiplication and division, working from 
+left to right.
+4th: Addition and Subtraction
+These are done last, from left to right.
+For example,
+.
+Integers
+ADDING AND SUBTRACTING WITH NEGATIVES
+Some examples:
+ -19 + 4 = 4 - 19 = -15
+ -3 - 17 = 1-32 + 1-172 = -20
+ a - 1-b2 = a + b 
+ -a + b = b - a 
+ -a - b = 1-a2 + 1-b2 
+= 12
+= 15 - 6 + 3
+= 15 - 2 # 3 + 27 , 9
+15 - 2 # 3 + 130 - 32 , 32
+a  b  a
+b  a>b  ba
+a * b, a # b, 1a21b2, ab
+more➤
+more➤
+
+--- Page 3 (Text) ---
+3
+Rates, Ratios, Proportions,
+and Percents
+RATES AND RATIOS
+A rate is a comparison of two quantities with different units.
+For example, a car that travels 110 miles in 2 hours is mov-
+ing at a rate of 110 miles/2 hours or 55 mph.
+A ratio is a comparison of two quantities with the same
+units. For example, a class with 23 students has a
+student–teacher ratio of 23:1 or
+.
+PROPORTIONS
+A proportion is a statement in which two ratios or rates are
+equal.
+An example of a proportion is the following statement:
+30 dollars is to 5 hours as 60 dollars is to 10 hours.
+This is written
+.
+A typical proportion problem will have one unknown 
+quantity, such as
+.
+We can solve this equation by cross multiplying as shown:
+.
+So, it takes 60 minutes to walk 3 miles.
+PERCENTS
+A percent is the number of parts out of 100. To write a per-
+cent as a fraction, divide by 100 and drop the percent sign. 
+For example,
+.
+To write a fraction as a percent, first check to see if the
+denominator is 100. If it is not, write the fraction as an
+equivalent fraction with 100 in the denominator. Then the
+numerator becomes the percent. For example,
+.
+To find a percent of a quantity, multiply the percent by the
+quantity.
+For example, 30% of 5 is
+.
+30
+100 # 5 = 150
+100 = 3
+2
+4
+5 = 80
+100 = 80%
+57% = 57
+100
+x = 60
+20 = 3
+20x = 60 # 1
+1 mile
+20 min = x miles
+60 min
+$30
+5 hr =
+$60
+10 hr
+23
+1
+Fractions
+(continued)
+Equivalent fractions are found by multiplying the numerator
+and denominator of the fraction by the same number. In the
+previous example,
+and
+.
+MULTIPLYING AND DIVIDING FRACTIONS
+When multiplying and dividing fractions, a common
+denominator is not needed. To multiply, take the product 
+of the numerators and the product of the denominators:
+To divide fractions, invert the second fraction and then 
+multiply the numerators and denominators:
+Some examples:
+REDUCING FRACTIONS
+To reduce a fraction, divide both the numerator and denom-
+inator by common factors. In the last example,
+.
+MIXED NUMBERS
+A mixed number has two parts: a whole number part and a
+fractional part. An example of a mixed number is 
+. This
+really represents
+,
+which can be written as
+.
+Similarly, an improper fraction can be written as a mixed
+number. For example,
+can be written as 
+,
+since 20 divided by 3 equals 6 with a remainder of 2.
+6 2
+3
+20
+3
+40
+8 + 3
+8 = 43
+8
+5 + 3
+8
+5 3
+8
+10
+12 = 10 , 2
+12 , 2 = 5
+6
+5
+12 , 1
+2 = 5
+12 # 2
+1 = 10
+12 = 5
+6
+3
+5 # 2
+7 = 6
+35
+a
+b , c
+d = a
+b # d
+c = ad
+bc
+a
+b # c
+d = a # c
+b # d = ac
+bd
+1
+4 = 1 # 3
+4 # 3 = 3
+12
+2
+3 = 2 # 4
+3 # 4 = 8
+12
+
+--- Page 4 (Text) ---
+Basic Math Review
+4
+Percents to Decimals and 
+Decimals to Percents
+To change a number from a percent to a decimal, divide by
+100 and drop the percent sign:
+58% = 58/100 = 0.58.
+To change a number from a decimal to a percent, multiply
+by 100 and add the percent sign:
+0.73 = .73
+100 = 73%.
+Simple Interest
+Given the principal (amount of money to be borrowed or
+invested), interest rate, and length of time, the amount of
+interest can be found using the formula
+where
+.
+For example, find the amount of simple interest on a $3800
+loan at an annual rate of 5.5% for 5 years:
+.
+The amount of interest is $1045.
+Scientific Notation
+Scientific notation is a convenient way to express very large
+or very small numbers. A number in this form is written as
+, where 
+and n is an integer. For
+example, 
+and 
+are expressed 
+in scientific notation.
+To change a number from scientific notation to a number
+without exponents, look at the power of ten. If that number is
+positive, move the decimal point to the right. If it is negative,
+move the decimal point to the left. The number tells you how
+many places to move the decimal point.
+For example,
+.
+To change a number to scientific notation, move the deci-
+mal point so it is to the right of the first nonzero digit. If the
+decimal point is moved n places to the left and this makes
+the number smaller, n is positive; otherwise, n is negative. If
+the decimal point is not moved, n is 0.
+For example,
+.
+0.0000216 = 2.16 * 10-5
+3.97 * 103 = 3970
+-1.2 * 10-4
+3.62 * 105
+1 …  ƒ  a ƒ 6 10
+a * 10n
+ I = 13800210.0552152 = 1045
+ t = 5 years 
+ r = 5.5% = 0.055 
+ p = $3800 
+t = time period
+r = percentage rate of interest
+p = principal
+I = interest 1dollar amount2
+I = p # r # t
+*
+Decimal Numbers
+The numbers after the decimal point represent fractions with
+denominators that are powers of 10. The decimal point sep-
+arates the whole number part from the fractional part.
+For example, 0.9 represents 
+.
+ADDING AND SUBTRACTING DECIMAL NUMBERS
+To add or subtract decimal numbers, line up the numbers so
+that the decimal points are aligned. Then add or subtract as
+usual, keeping the decimal point in the same place.
+For example,
+MULTIPLYING AND DIVIDING DECIMAL NUMBERS
+To multiply decimal numbers, multiply them as though they
+were whole numbers. The number of decimal places in the
+product is the sum of the number of decimal places in the
+factors. For example,
+is
+To divide decimal numbers, first make sure the divisor is a
+whole number. If it is not, move the decimal place to the right
+(multiply by 10, 100, and so on) to make it a whole number.
+Then move the decimal point the same number of places in
+the dividend.
+For example,
+.
+The decimal point in the answer is placed directly above the
+new decimal point in the dividend.
+ 124.20
+0.35
+0.42 , 1.2 =  4.2 , 12
+2 decimal places
+3 decimal places
+1 decimal place
+3.72
+ 4.5
+16.740
+3.72 * 4.5
+23.00
+ 0.37
+ 22.63
+23 - 0.37 =
+9
+billions
+hundred millions
+ten millions
+millions
+hundred thousands
+ten thousands
+thousands
+hundreds
+tens
+ones
+tenths
+hundredths
+thousandths
+ten thousandths
+hundred thousandths
+millionths
+3 2 7 6 0 4 9 8 5 3 2 6 8 9 4
+Place Value Chart
+Whole numbers
+Whole numbers
+Decimals
+9
+10
+more➤
+
+--- Page 5 (Text) ---
+5
+Measurements
+U.S. Measurement Units
+in. = inch
+oz = ounce
+ft = foot
+c = cup
+min = minute
+mi = mile
+sec = second
+hr = hour
+gal = gallon
+lb = pound
+yd = yard
+qt = quart
+pt = pint
+T = ton
+Metric Units
+mm = millimeter
+cm = centimeter
+km = kilometer
+m = meter
+mL = milliliter
+cL = centiliter
+L = liter
+kL = kiloliter
+mg = milligram
+cg = centigram
+g = gram
+kg = kilogram
+U.S. AND METRIC CONVERSIONS
+U.S.
+12 in. = 1 ft
+3 ft = 1 yd
+1760 yd = 1 mi
+5280 ft = 1 mi
+2 c = 1 pt
+1 c = 8 oz
+4 qt = 1 gal
+2 pt = 1 qt
+2000 lb = 1 T
+16 oz = 1 lb
+Metric
+1000 mm = 1 m
+100 cm = 1 m
+1000 m = 1 km
+100 cL = 1 L
+1000 mL = 1 L
+100 cg = 1 g
+1000 mg = 1 g
+1000 g = 1 kg
+0.001 m = 1 mm
+0.01 m = 1 cm
+0.001 g = 1 mg
+0.01 g = 1 cg
+0.001 L = 1 mL
+0.01 L = 1 cL
+Scientific Notation
+(continued)
+MULTIPLYING AND DIVIDING IN SCIENTIFIC NOTATION
+To multiply or divide numbers in scientific notation, we can
+change the order and grouping, so that we multiply or divide
+first the decimal parts and then the powers of 10. For example,
+Statistics
+There are several ways to study a list of data.
+Mean, or average, is the sum of all the data values divided by
+the number of values.
+Median is the number that separates the list of data into two
+equal parts. To find the median, list the data in order from
+smallest to largest. If the number of data is odd, the median is
+the middle number. If the number of data is even, the median
+is the average of the two middle numbers.
+Mode is the number in the list that occurs the most fre-
+quently. There can be more than one mode.
+For example, consider the following list of test scores:
+{87, 56, 69, 87, 93, 82}
+To find the mean, first add:
+.
+Then divide by 6:
+.
+The mean score is 79.
+To find the median, first list the data in order:
+56, 69, 82, 87, 87, 93.
+Since there is an even number of data, we take the average
+of 82 and 87:
+.
+The median score is 84.5.
+The mode is 87, since this number appears twice and each
+of the other numbers appears only once.
+Distance Formula
+Given the rate at which you are traveling and the length of
+time you will be traveling, the distance can be found by
+using the formula
+where
+t = time
+r = rate
+d = distance
+d = r # t
+82 + 87
+2
+= 169
+2
+= 84.5
+474
+6
+= 79
+87 + 56 + 69 + 87 + 93 + 82 = 474
+ = 9.25 * 105 .
+ = 13.7 * 2.52 # 110-3 * 1082 
+ 
+13.7 * 10-32 # 12.5 * 1082
+
+--- Page 6 (Text) ---
+6
+Geometry
+The perimeter of a geometric figure is the distance around it
+or the sum of the lengths of its sides.
+The perimeter of a rectangle is 2 times the length plus 2
+times the width:
+The perimeter of a square is 4 times the length of a side:
+Area is always expressed in square units, since it is two-
+dimensional.
+The formula for area of a rectangle is
+.
+The formula for area of a square is
+or
+.
+The area of a triangle is one-half the product of the height
+and base:
+The sum of all three angles in any triangle always equals
+180 degrees.
+A right triangle is a triangle with a 
+(right) angle. The
+hypotenuse of a right triangle is the side opposite the right
+angle.
+hypotenuse
+90°
+90°
+x° + y° + z° = 180°
+x
+y
+z
+A = 1
+2b # h
+h
+b
+A = s2
+A = s # s
+A = L # W
+P = 4s
+s
+s
+P = 2L + 2W
+L
+W
+more➤
+Geometry
+(continued)
+PYTHAGOREAN THEOREM
+In any right triangle, if a and b are the lengths of the legs
+and c is the length of the hypotenuse, then
+CIRCLES
+Area: 
+Circumference: 
+where d is the diameter, r is the radius, or half the diameter,
+and 
+is approximately 3.14 or 
+.
+A circle has an angle of 360 degrees.
+A straight line has an angle of 180 degrees.
+Algebraic Terms
+Variable: A variable is a letter that represents a number
+because the number is unknown or because it can change.
+For example, the number of days until your vacation
+changes every day, so it could be represented by a
+variable, x.
+Constant: A constant is a term that does not change. For
+example, the number of days in the week, 7, does not
+change, so it is a constant. 
+Expression: An algebraic expression consists of constants,
+variables, numerals and at least one operation. For example,
+is an expression. 
+Equation: An equation is basically a mathematical sentence
+indicating that two expressions are equal. For example,
+is an equation.
+Solution: A number that makes an equation true is a
+solution to that equation. For example, in using the above
+equation, 
+, we know that the statement is true
+if
+.
+x = 11
+x + 7 = 18
+x + 7 = 18
+x + 7
+d
+r
+22
+7
+p
+C = p # d = 2 # p # r
+A = p # r2
+c
+a
+b
+a2 + b2 = c2.

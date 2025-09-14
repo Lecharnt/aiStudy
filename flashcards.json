@@ -1,0 +1,158 @@
+{
+  "1": [
+    {
+      "id": 1750445244430,
+      "question": "What is the general form of a linear equation?",
+      "answer": "y = mx + b, where m is the slope and b is the y-intercept.",
+      "topic": "Imported",
+      "difficulty": "medium",
+      "next_review": "2025-06-30T05:26:21.277120",
+      "interval": 0.0001,
+      "repetitions": 0,
+      "ease_factor": 1.6500000000000001
+    },
+    {
+      "id": 1750445244430,
+      "question": "How do you calculate the slope (m) of a line given two points (x1, y1) and (x2, y2)?",
+      "answer": "m = (y2 - y1) / (x2 - x1)",
+      "topic": "Imported",
+      "difficulty": "medium",
+      "next_review": "2025-06-20T14:47:24.430440",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1750445244430,
+      "question": "What does a steeper slope (larger absolute value of m) indicate about a line?",
+      "answer": "A steeper slope indicates a faster rate of change (either increase or decrease).",
+      "topic": "Imported",
+      "difficulty": "medium",
+      "next_review": "2025-06-20T14:47:24.430443",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1750445244430,
+      "question": "What is the y-intercept (b) in the linear equation y = mx + b?",
+      "answer": "The y-intercept is the point where the line crosses the y-axis (i.e., the value of y when x = 0).",
+      "topic": "Imported",
+      "difficulty": "medium",
+      "next_review": "2025-06-20T14:47:24.430445",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1750445244430,
+      "question": "What does \"rate of change\" refer to in a linear equation?",
+      "answer": "The slope (m) represents the rate of change, indicating how much y changes for every unit change in x.",
+      "topic": "Imported",
+      "difficulty": "medium",
+      "next_review": "2025-06-20T14:47:24.430449",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1750445316634,
+      "question": "What does the Divergence Test state, and when can it be used?",
+      "answer": "If lim (n\u2192\u221e) a_n \u2260 0, then the series \u2211 a_n diverges. It can *only* be used to prove divergence. If the limit *does* equal zero, the test is inconclusive.",
+      "topic": "Imported",
+      "difficulty": "medium",
+      "next_review": "2025-07-29T08:13:23.241383",
+      "interval": 29.11606534179688,
+      "repetitions": 11,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1750445316634,
+      "question": "How do you determine if a geometric series converges, and if it does, what is its value?",
+      "answer": "A geometric series \u2211 ar^(n-1) converges if |r| < 1. If it converges, its value is a / (1 - r), where 'a' is the first term and 'r' is the common ratio.",
+      "topic": "Imported",
+      "difficulty": "medium",
+      "next_review": "2025-06-20T14:48:36.634225",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1750445316634,
+      "question": "Describe the Integral Test and its requirements.",
+      "answer": "If f(x) is continuous, positive, and decreasing for x \u2265 1, and a_n = f(n), then \u2211 a_n and \u222b(1 to \u221e) f(x) dx either both converge or both diverge.",
+      "topic": "Imported",
+      "difficulty": "medium",
+      "next_review": "2025-06-20T14:48:36.634229",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1750445316634,
+      "question": "Explain the difference between the Comparison Test and the Limit Comparison Test.",
+      "answer": "**Comparison Test:** If 0 \u2264 a_n \u2264 b_n and \u2211 b_n converges, then \u2211 a_n converges. If a_n \u2265 b_n \u2265 0 and \u2211 b_n diverges, then \u2211 a_n diverges.",
+      "topic": "Imported",
+      "difficulty": "medium",
+      "next_review": "2025-06-20T14:48:36.634232",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1750445316634,
+      "question": "State the Ratio Test.",
+      "answer": "Let L = lim (n\u2192\u221e) |a_(n+1) / a_n|. If L < 1, the series \u2211 a_n converges absolutely. If L > 1 or L = \u221e, the series diverges. If L = 1, the test is inconclusive.",
+      "topic": "Imported",
+      "difficulty": "medium",
+      "next_review": "2025-06-20T14:48:36.634234",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1750445316634,
+      "question": "State the Root Test.",
+      "answer": "Let L = lim (n\u2192\u221e) |a_n|^(1/n). If L < 1, the series \u2211 a_n converges absolutely. If L > 1 or L = \u221e, the series diverges. If L = 1, the test is inconclusive.",
+      "topic": "Imported",
+      "difficulty": "medium",
+      "next_review": "2025-06-20T14:48:36.634236",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1750445316634,
+      "question": "What is the difference between absolute and conditional convergence?",
+      "answer": "\u2211 a_n converges absolutely if \u2211 |a_n| converges. \u2211 a_n converges conditionally if \u2211 a_n converges but \u2211 |a_n| diverges.",
+      "topic": "Imported",
+      "difficulty": "medium",
+      "next_review": "2025-06-20T14:48:36.634238",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1750445316634,
+      "question": "How do you find the radius of convergence (R) of a power series?",
+      "answer": "Use the Ratio Test or Root Test. Express the general term as a_n(x-c)^n and solve for the interval of x for which the limit L < 1. Half the length of this interval is the radius of convergence, R. Alternatively, R = 1/L, where L is the limit found using the ratio or root test. If L = 0, R = \u221e; if L = \u221e, R = 0.",
+      "topic": "Imported",
+      "difficulty": "medium",
+      "next_review": "2025-06-20T14:48:36.634241",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1750445316634,
+      "question": "How do you find the interval of convergence of a power series?",
+      "answer": "First, find the radius of convergence (R). Then, test the endpoints of the interval (c - R, c + R) to see if the series converges at those points. Include the endpoints in the interval if the series converges there; exclude them if it diverges.",
+      "topic": "Imported",
+      "difficulty": "medium",
+      "next_review": "2025-06-20T14:48:36.634242",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
+  ]
+}

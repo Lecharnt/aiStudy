@@ -1,0 +1,191 @@
+{
+  "1": [
+    {
+      "id": 1749779474792,
+      "question": "What is a glacier?",
+      "answer": "Huge frozen sheets of ice.",
+      "topic": "hitory",
+      "difficulty": "medium",
+      "next_review": "2026-06-13T17:37:46.128861",
+      "interval": 365,
+      "repetitions": 163,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1749779474792,
+      "question": "What is a civilization?",
+      "answer": "A highly organized society marked by advanced knowledge of trade, government, the arts, science, and, often, written language.",
+      "topic": "hitory",
+      "difficulty": "medium",
+      "next_review": "2025-06-12T21:51:14.792313",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1749779474792,
+      "question": "What are nomads?",
+      "answer": "People who continuously move place to place.",
+      "topic": "hitory",
+      "difficulty": "medium",
+      "next_review": "2025-06-12T21:51:14.792316",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1749779474792,
+      "question": "What is slash-and-burn agriculture?",
+      "answer": "The process of cutting down trees to clear land and then burning them in order to add Nitrogen to the soil.",
+      "topic": "hitory",
+      "difficulty": "medium",
+      "next_review": "2025-06-12T21:51:14.792318",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1749779474792,
+      "question": "What were the Crusades?",
+      "answer": "Expeditions in which Christians were urged to take up arms in order to regain control of their holy sites.",
+      "topic": "hitory",
+      "difficulty": "medium",
+      "next_review": "2025-06-12T21:51:14.792319",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1749779474792,
+      "question": "What was the Columbian Exchange?",
+      "answer": "The interaction between peoples and ecologies set in motion by the arrival of European colonists in the Americas.",
+      "topic": "hitory",
+      "difficulty": "medium",
+      "next_review": "2025-06-12T21:51:14.792321",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1749779474792,
+      "question": "What does \"circumnavigate\" mean?",
+      "answer": "To sail completely around the globe.",
+      "topic": "hitory",
+      "difficulty": "medium",
+      "next_review": "2025-06-12T21:51:14.792322",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1749779474792,
+      "question": "What were conquistadors?",
+      "answer": "Spanish for \"conquerors\".",
+      "topic": "hitory",
+      "difficulty": "medium",
+      "next_review": "2025-06-12T21:51:14.792324",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1749779474792,
+      "question": "What were presidios?",
+      "answer": "Forts built by the Spanish.",
+      "topic": "hitory",
+      "difficulty": "medium",
+      "next_review": "2025-06-12T21:51:14.792325",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1749779476631,
+      "question": "What was the \"Ice Age\" in this context?",
+      "answer": "This context is insufficient to determine what \"Ice Age\" refers to.",
+      "topic": "hitory",
+      "difficulty": "medium",
+      "next_review": "2026-06-13T17:37:45.916552",
+      "interval": 365,
+      "repetitions": 72,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1749779476631,
+      "question": "What were large Spanish cattle ranches called?",
+      "answer": "The provided context does not specify a name for these ranches.",
+      "topic": "hitory",
+      "difficulty": "medium",
+      "next_review": "2025-06-12T21:51:16.631337",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1749779476631,
+      "question": "What is a \"Sahara\" in this context?",
+      "answer": "This context is insufficient to determine what \"Sahara\" refers to.",
+      "topic": "hitory",
+      "difficulty": "medium",
+      "next_review": "2025-06-12T21:51:16.631339",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1749779476631,
+      "question": "Who were the Spanish workers on the \"haciendas\"?",
+      "answer": "The provided text refers to \"Spanish workers on the hacfendas\" but does not specify who they were.",
+      "topic": "hitory",
+      "difficulty": "medium",
+      "next_review": "2025-06-12T21:51:16.631341",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1749779476631,
+      "question": "What were \"haciendas\"?",
+      "answer": "Haciendas. The definition is not provided in the text.",
+      "topic": "hitory",
+      "difficulty": "medium",
+      "next_review": "2025-06-12T21:51:16.631342",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1749779476631,
+      "question": "What was the \"encomienda\" system?",
+      "answer": "A system that granted control of Native American towns to Spanish encomenderos.",
+      "topic": "hitory",
+      "difficulty": "medium",
+      "next_review": "2025-06-12T21:51:16.631343",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1749779476631,
+      "question": "What is a \"Renaissance\"?",
+      "answer": "This context is insufficient to determine what \"Renaissance\" refers to.",
+      "topic": "hitory",
+      "difficulty": "medium",
+      "next_review": "2025-06-12T21:51:16.631344",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    },
+    {
+      "id": 1749779476631,
+      "question": "Who were \"encomenderos\"?",
+      "answer": "The Spanish who were granted control of Native American towns under the \"encomienda\" system.",
+      "topic": "hitory",
+      "difficulty": "medium",
+      "next_review": "2025-06-12T21:51:16.631345",
+      "interval": 1,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
+  ]
+}
